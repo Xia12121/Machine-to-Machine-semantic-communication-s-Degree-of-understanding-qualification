@@ -1,0 +1,45 @@
+{
+  "__description__": "Evaluation sentences grouped by token length, matching the paper's Experiment A buckets (5/15/25 words after preprocessing). Sourced from general English (newswire / SemEval-style sentences) so the text is public-domain and offline-available. Replace with Semeval-2017 samples via data/prepare_data.py when network access is available.",
+  "len5": [
+    "The quick brown fox jumps over the lazy dog quickly.",
+    "A bank charges interest on the long loans approved today.",
+    "The pitcher threw a fast ball right past the batter.",
+    "She saw a bat flying near the old stone bridge.",
+    "The spring breaks when the metal coil bears heavy weight.",
+    "The company board issued new shares to existing common investors.",
+    "The bark of the tall tree peeled off after heavy rain.",
+    "Light from the bright bulb filled the small empty room.",
+    "The bass player tuned his guitar before the live show.",
+    "The crane lifted steel beams onto the tall new building.",
+    "The judge dismissed the case after hearing the witness testimony.",
+    "The child ran across the green field chasing a red kite."
+  ],
+  "len15": [
+    "The old bank by the river quickly closed after heavy rain caused severe flood damage to nearby buildings.",
+    "A small bat flew out from the dark cave just as the tired hikers stopped to rest briefly.",
+    "The factory crane slowly lifted heavy steel beams onto the new tower as workers watched carefully from below.",
+    "Local players gathered at the park early this morning to practice their pitches before the afternoon tournament final.",
+    "A bright light from the distant lighthouse guided the small fishing boats safely back to the rocky harbour tonight.",
+    "The spring flowers bloomed across the wide valley after the long winter finally gave way to warmer sunny days.",
+    "The judge carefully reviewed all the evidence before delivering a fair verdict to the quiet packed court today.",
+    "The company board held a long meeting to discuss new shares and future plans for the growing tech division.",
+    "Workers repaired the wooden bridge over the creek before the heavy storm arrived with strong wind and pouring rain.",
+    "The doctor checked the patient pulse carefully and then prescribed fresh medicine for the persistent chest cold symptoms.",
+    "Children played baseball on the green field while their parents cheered loudly from the shaded wooden benches nearby.",
+    "The old library kept rare books about ancient ships and famous captains who sailed across dangerous stormy northern seas."
+  ],
+  "len25": [
+    "The experienced bank manager carefully reviewed the loan application and then approved a long credit line for the small local business owner who planned to expand the store next spring.",
+    "A curious young bat emerged from the deep dark cave just as the tired hiking group stopped beside the cold mountain stream to rest and quickly share some warm tea.",
+    "The giant factory crane lifted heavy steel beams onto the tall new tower while cautious workers watched closely from the ground and calmly signalled the operator through their small radios.",
+    "The young pitcher threw a very fast ball straight past the surprised batter and the loud crowd cheered with excitement as the final inning ended in a narrow home victory.",
+    "The bright harbour light from the old stone lighthouse guided the tiny fishing boats safely back through the thick fog to the rocky shore where worried families waited with warm blankets.",
+    "Colourful spring flowers bloomed across the wide green valley after the long cold winter finally gave way to warmer sunny days and gentle breezes that rolled down the hillside.",
+    "The careful judge patiently reviewed all available evidence and witness statements before delivering a fair and clear verdict to the quiet packed court in the small old county building today.",
+    "The company board held a long private meeting to discuss new shares, future product plans and the coming acquisition of the growing startup that served many international enterprise clients.",
+    "Dedicated workers quickly repaired the wooden bridge over the rising creek before the heavy autumn storm arrived with strong wind, pouring rain and occasional thunder across the wide valley.",
+    "The kind doctor carefully checked the tired patient's pulse, asked several routine questions, and then prescribed fresh medicine for the persistent chest cold and mild fever observed during the visit.",
+    "Happy children played a long baseball game on the wide green field while proud parents cheered loudly from the shaded wooden benches nearby and the afternoon sun slowly faded behind distant hills.",
+    "The quiet library kept many rare books about ancient ships and famous captains who bravely sailed across dangerous stormy northern seas in search of new trading routes and unknown distant lands."
+  ]
+}

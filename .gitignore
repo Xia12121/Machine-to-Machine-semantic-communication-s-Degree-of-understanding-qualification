@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model / HF cache (if anyone sets local cache dirs)
+.cache/
+hf_cache/
+
+# Experiment outputs — these are regenerated on each run
+results/*.json
+figures/*.png
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# NLTK data (auto-downloaded)
+nltk_data/
+
+# Claude Code local settings
+.claude/
